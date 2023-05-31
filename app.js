@@ -29,7 +29,7 @@ function onYouTubeIframeAPIReady() {
         //videoId: '4XnTqg_A3V0',
         playerVars: {
             listTyoe: 'playlist',
-            list: "PLt6NLlIK8lVLGaVv1J1_Mka3wAGX0cIyf"
+            list: "PLE2735DAA33DCCEBF"
         },
         events: {
             'onReady': onPlayerReady
